@@ -1,0 +1,22 @@
+{
+    "editor.fontSize": 20,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "python.defaultInterpreterPath": "",
+    "workbench.editor.enablePreview": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "workbench.preferredDarkColorTheme": "Default Light+",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Light",
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "python.linting.mypyEnabled":true,
+    "python.linting.flake8Enabled": true,
+    "python.testing.unittestEnabled": true,
+    "[python]":{
+        "editor.formatOnSave": true
+    }
+}
