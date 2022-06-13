@@ -1,22 +1,17 @@
 {
-    "editor.fontSize": 20,
+    "editor.fontSize": 17,
     "workbench.iconTheme": "material-icon-theme",
-    "files.autoSave": "afterDelay",
-    "workbench.colorTheme": "Dracula",
+    "files.autoSave": "onFocusChange",
     "diffEditor.wordWrap": "on",
     "editor.wordWrap": "on",
-    "python.defaultInterpreterPath": "",
     "workbench.editor.enablePreview": false,
     "editor.unicodeHighlight.invisibleCharacters": false,
     "editor.unicodeHighlight.ambiguousCharacters": false,
     "workbench.preferredDarkColorTheme": "Default Light+",
-    "workbench.preferredHighContrastColorTheme": "Visual Studio Light",
     "code-runner.ignoreSelection": true,
-    "code-runner.runInTerminal": true,
-    "python.linting.mypyEnabled":true,
-    "python.linting.flake8Enabled": true,
+    "code-runner.runInTerminal": false,
     "python.testing.unittestEnabled": true,
-    "[python]":{
-        "editor.formatOnSave": true
-    }
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.clearPreviousOutput": true,
+    "workbench.colorTheme": "NarutoDark",
 }
